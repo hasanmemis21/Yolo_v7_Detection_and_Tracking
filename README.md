@@ -1,1 +1,1 @@
-# Yolo_v7_Detecyion_and_Tracking
+# Yolo_v7_Detection_and_Tracking
